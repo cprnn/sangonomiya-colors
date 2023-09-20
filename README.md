@@ -1,16 +1,13 @@
-# sangonomiya-colors README
 
-## Working with Markdown
+# ﾟ･:* *Sangonomiya Colors* *:･ﾟ
+## A Genshin Impact Inspired VSCode Theme
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+![](https://64.media.tumblr.com/bf2e033fb7c21b8ae6fb9a8435752cb2/be73464eac2e48dc-60/s540x810/53e9f573e3de78b5bd652260ed5c9526379d5cd3.gifv)
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+> *"The world below water is not bright and sunny like that of dry land. Still, whenever I lend myself to the deep, my heart gradually fills with a permeating sense of peace. Fish move in faraway shoals, jellyfish dance around me, and my troubles start to simply wash away. Mmm... I could take you to see it sometime, what do you think?"*
 
-## For more information
+*Cute and comfy theme inspired by the colors of Sangonomiya Kokomi and Watatsumi Island, from Genshin Impact!*
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+🌊Find me on my [socials](https://linktr.ee/cprn)! 🌊
 
-**Enjoy!**
+© All rights reserved by miHoYo. Other properties belong to their respective owners.
