@@ -1,0 +1,21 @@
+{
+  "name": "sangonomiya-colors",
+  "displayName": "sangonomiya colors",
+  "description": "Dark Version: The colors of one the most beautiful areas in Genshin Impact, Sangonomiya Shrine, made by @cprnn!",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.82.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Sangonomiya Colors",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Sangonomiya Colors-color-theme.json"
+      }
+    ]
+  }
+}
