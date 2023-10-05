@@ -7,3 +7,7 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ## [Unreleased]
 
 - Initial release
+
+## [1.0.3] - 2023-10-04
+
+- Fixed comment and editor foreground colors
